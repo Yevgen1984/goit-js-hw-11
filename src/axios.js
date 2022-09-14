@@ -17,3 +17,4 @@ export async function fetchImages(image, page) {
 
   return data;
 }
+
